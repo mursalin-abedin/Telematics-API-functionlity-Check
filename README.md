@@ -1,21 +1,36 @@
-🚗 API Functionality Assessment
+# API Functionality Assessment
 
-Technologies: REST API | Swagger 3.4.0 | AWS S3 | SQL
+### Technologies
+`REST API` • `Swagger 3.4.0` • `AWS S3` • `SQL`
 
-A validation and testing project focused on ensuring reliable API performance for connected vehicle systems. The work involved designing, executing, and validating RESTful API workflows to support key telematics features across Honda and Acura vehicles.
+A validation and testing initiative designed to ensure consistent and reliable API performance for connected vehicle systems.  
+The project centered on designing, executing, and validating RESTful API workflows supporting key Honda and Acura telematics features.
 
-⭐ Key Contributions
+---
 
-Conducted end-to-end API validation using Swagger 3.4.0 for features such as connection time, provisioning, privacy protocol, remote tracking, and geo-fencing.
+## Key Contributions
 
-Updated and executed XML/JSON payloads to trigger API calls, verifying accurate request/response handling.
+- **End-to-End API Validation:**  
+  Performed comprehensive testing using *Swagger 3.4.0* to validate critical functions including connection time, provisioning, privacy protocol, remote tracking, and geo-fencing.
 
-Performed data integrity checks using SQL and DBViewer to ensure consistency between front-end responses and back-end systems.
+- **Payload Execution & Verification:**  
+  Updated and triggered **XML/JSON payloads** to initiate API calls and validate precise request-response handling.
 
-Monitored CAN, Ethernet, and diagnostic (Diag) data from DAQ systems to confirm correct functionality across multiple models.
+- **Data Integrity & Analysis:**  
+  Utilized **SQL** and **DBViewer** to confirm data consistency between front-end responses and back-end databases.
 
-Maintained organized test assets, logs, and regression data in AWS S3, ensuring full traceability for future validation cycles.
+- **System Monitoring:**  
+  Monitored **CAN**, **Ethernet**, and **Diagnostic (Diag)** data from DAQ systems to ensure correct functionality across multiple vehicle models.
 
-💡 Summary
+- **Documentation & Traceability:**  
+  Maintained organized test artifacts, logs, and regression data within **AWS S3**, ensuring full traceability for continuous validation.
 
-This project demonstrates my ability to bridge software validation, data analysis, and system integration within an automotive context — emphasizing precision, reliability, and cross-functional collaboration.
+---
+
+## Summary
+
+This project showcases strong expertise in software validation, data analysis, and system integration within the automotive domain.  
+It highlights precision, reliability, and effective cross-functional collaboration across development and testing environments.
+
+
+
